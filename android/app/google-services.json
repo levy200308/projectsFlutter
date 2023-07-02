@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368271390722",
+    "project_id": "essaieformulaire",
+    "storage_bucket": "essaieformulaire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368271390722:android:7d9b54bb1bfbf6a9a64f1b",
+        "android_client_info": {
+          "package_name": "com.example.projects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368271390722-ap864g23lt5bp1dc98qv0hd7t49bp41u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqquGe9upzQJ8mGBvBXKojZna8dnqXiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368271390722-ap864g23lt5bp1dc98qv0hd7t49bp41u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
